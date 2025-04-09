@@ -14,11 +14,11 @@ body {
     font-weight: 400;
     font-style: normal;
 
-    max-width: 800px;        /* largura máxima pra não ficar esticado demais */
-    margin: 50px 220px;       /* centraliza horizontalmente e dá espaço em cima/baixo */
+    max-width: 800px;        
+    margin: 50px 220px;       
     padding: 40px;
-    text-align: center;      /* centraliza texto e elementos dentro */
-    background-color: #C0C0C0; /* cor clara de fundo, opcional */
+    text-align: center;     
+    background-color: #C0C0C0; 
     border-radius: 16px;
     box-shadow: 0 0 20px 4px rgba(0, 0, 0, 0.5);
     
@@ -38,11 +38,11 @@ body {
     font-weight: 400;
     font-style: normal;
 
-    max-width: 800px;        /* largura máxima pra não ficar esticado demais */
-    margin: 50px 220px;       /* centraliza horizontalmente e dá espaço em cima/baixo */
+    max-width: 800px;        
+    margin: 50px 220px;       
     padding: 40px;
-    text-align: center;      /* centraliza texto e elementos dentro */
-    background-color: #fdfdfd; /* cor clara de fundo, opcional */
+    text-align: center;      
+    background-color: #fdfdfd; 
     border-radius: 16px;
     box-shadow: 0 0 20px 4px rgba(0, 0, 0, 0.5);
     
