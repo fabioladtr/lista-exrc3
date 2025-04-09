@@ -13,9 +13,10 @@ body {
     font-optical-sizing: auto;
     font-weight: 400;
     font-style: normal;
+    color: #2F4F4F;
 
     max-width: 800px;        
-    margin: 50px 220px;       
+    margin: 50px 300px;       
     padding: 40px;
     text-align: center;     
     background-color: #C0C0C0; 
@@ -37,9 +38,10 @@ body {
     font-optical-sizing: auto;
     font-weight: 400;
     font-style: normal;
+    color: #2F4F4F;
 
     max-width: 800px;        
-    margin: 50px 220px;       
+    margin: 50px 300px;       
     padding: 40px;
     text-align: center;      
     background-color: #fdfdfd; 
@@ -72,8 +74,8 @@ body {
     display: inline-block;
     margin-bottom: 20px;
     padding: 10px 20px;
-    background-color: #4CAF50;
-    color:#7FFF00;
+    background-color: #00CED1;
+    color:#2F4F4F;
     text-decoration: none;
     border-radius: 6px;
   }
